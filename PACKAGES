@@ -1,0 +1,14 @@
+!firewalld
+!tuned
+sysstat
+nmap-ncat
+tcpdump
+lsof
+strace
+iptables-services
+ipset-service
+tmux
+git
+postfix
+chrony
+tar
